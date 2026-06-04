@@ -14,7 +14,7 @@ Compilador completo escrito en C que procesa un subconjunto del lenguaje C (decl
 | `Analisis_Sintactico.c` | Fases léxica y sintáctica |
 | `programa.asm` | Último archivo ASM generado por el compilador |
 | `Tester_Comp_OA.txt` | Archivo de prueba de entrada |
-
+ 
 ---
 
 ## Lenguaje soportado

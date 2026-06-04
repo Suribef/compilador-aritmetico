@@ -22,7 +22,7 @@ int esEntero(char *lex);
 int esDecimal(char *lex);
 int esExponencial(char *lex);
 int expresionDecimal = 0;
-
+ 
 
 /* ================= ESTRUCTURA TOKEN ================= */
 
